@@ -1,0 +1,73 @@
+h3{
+    color: rgb(0,250,225);
+}
+h4{
+    font-family: 'Raleway', sans-serif;
+}
+.nothing {
+    margin: 0 0 0 0;
+}
+.header {
+    text-align: center;
+    position: fixed;
+    color: rgb(0,250,225);
+    width: 100%;
+    background-color: black;
+    margin: 0 0 0 0;
+    top: 0;
+    left: 0;
+    height: 50px;
+    fill-opacity: 100%;
+}
+.school__map--center{
+    text-align:center;
+}
+.school__vidtour--center{
+    text-align:center;
+}
+.else{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'UTM', Dueputozero;
+}
+.input{
+    padding: 5px 10px 5px 10px;
+}
+.prof__table--center{
+    text-align: center;
+}
+html{
+    background: url('https://wallpaperaccess.com/full/2646527.jpg');
+     background-size: cover;
+    background-repeat: no-repeat;
+}
+h5{
+    color: #fffedb;
+}
+#main {
+    margin: 30px 0 20px 0;
+    padding: 0 10px 0 10px;
+    overflow: scroll;
+}
+#sidebar{
+    position: absolute;
+    text-align: left;
+    width: 300px;
+    height:auto;
+    box-sizing: border-box;
+    right: 0px;
+    top: 30px;
+    border: 2px dashed rgb(0,250,225);
+}
+#MAINPART{
+    padding: 0 320px 0 0;
+    line-height: 20px;
+    word-wrap: break-word;
+    position: relative;
+}
+.intro{
+    width: 1000px;
+    text-align: center;
+}
